@@ -1,0 +1,515 @@
+{
+ "books": [
+  {
+   "url": "https://openlibrary.org/books/OL1120415M",
+   "book_name": "Industrial Therapy",
+   "year_of_publishing": "1995",
+   "rating": "5.0",
+   "author": "Glenda L. Key",
+   "author_url": "https://openlibrary.org/authors/OL7822172A/Glenda_L._Key",
+   "subject": "Industrial Medicine",
+   "subject_url": "https://openlibrary.org/subjects/industrial_medicine",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL2864237M",
+   "book_name": "Cryogenic systems",
+   "year_of_publishing": "1985",
+   "author": "Randall F. Barron",
+   "author_url": "https://openlibrary.org/authors/OL241907A/Randall_F._Barron",
+   "subject": "Low temperature engineering",
+   "subject_url": "https://openlibrary.org/subjects/low_temperature_engineering",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL27172009M",
+   "book_name": "Maddi's fridge",
+   "year_of_publishing": "2014",
+   "author": "Lois Brandt",
+   "author_url": "https://openlibrary.org/authors/OL1776628A/Lois_Brandt",
+   "subject": "Fiction",
+   "subject_url": "https://openlibrary.org/subjects/fiction",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL24866855M",
+   "book_name": "Appreciating dance",
+   "year_of_publishing": "2009",
+   "author": "Harriet R. Lihs",
+   "author_url": "https://openlibrary.org/authors/OL2938178A/Harriet_R._Lihs",
+   "subject": "History",
+   "subject_url": "https://openlibrary.org/subjects/history",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL27157962M",
+   "book_name": "Faces in the crowd",
+   "year_of_publishing": "2014",
+   "author": "Valeria Luiselli",
+   "author_url": "https://openlibrary.org/authors/OL7505388A/Valeria_Luiselli",
+   "subject": "Mexico City (Mexico)",
+   "subject_url": "https://openlibrary.org/subjects/place:mexico_city_(mexico)",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL9514894M",
+   "book_name": "Electronic Life",
+   "year_of_publishing": "August 12, 1984",
+   "author": "Michael Crichton",
+   "author_url": "https://openlibrary.org/authors/OL5949173A/Michael_Crichton",
+   "subject": "Protected DAISY",
+   "subject_url": "https://openlibrary.org/subjects/protected_daisy",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/works/OL51935W",
+   "subject": "Plato",
+   "subject_url": "https://openlibrary.org/subjects/person:plato"
+  },
+  {
+   "url": "https://openlibrary.org/works/OL145025W",
+   "subject": "Macedonain Expansion, 359-323 B.C.",
+   "subject_url": "https://openlibrary.org/subjects/time:macedonain_expansion_359-323_b.c."
+  },
+  {
+   "url": "https://openlibrary.org/works/OL1274636W",
+   "subject": "Accessible book",
+   "subject_url": "https://openlibrary.org/subjects/accessible_book"
+  },
+  {
+   "url": "https://openlibrary.org/works/OL38876W",
+   "subject": "19th century",
+   "subject_url": "https://openlibrary.org/subjects/time:19th_century"
+  },
+  {
+   "url": "https://openlibrary.org/works/OL1144821W",
+   "subject": "History",
+   "subject_url": "https://openlibrary.org/subjects/history"
+  },
+  {
+   "url": "https://openlibrary.org/works/OL490916W",
+   "subject": "Alfred Tennyson Tennyson Baron (1809-1892)",
+   "subject_url": "https://openlibrary.org/subjects/person:alfred_tennyson_tennyson_baron_(1809-1892)"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL7699342M",
+   "book_name": "The Road to Reality",
+   "year_of_publishing": "February 22, 2005",
+   "author": "Roger Penrose",
+   "author_url": "https://openlibrary.org/authors/OL579149A/Roger_Penrose",
+   "subject": "Roger Penrose",
+   "subject_url": "https://openlibrary.org/subjects/person:roger_penrose",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL18791934M",
+   "book_name": "Guns, germs, and steel",
+   "year_of_publishing": "2003",
+   "author": "Jared Diamond",
+   "author_url": "https://openlibrary.org/authors/OL2630733A/Jared_Diamond",
+   "subject": "Jared M. Diamond",
+   "subject_url": "https://openlibrary.org/subjects/person:jared_m._diamond",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL25424889M",
+   "book_name": "Daemon",
+   "year_of_publishing": "Jan2010",
+   "author": "Daniel Suarez",
+   "author_url": "https://openlibrary.org/authors/OL6502947A/Daniel_Suarez",
+   "subject": "Thriller",
+   "subject_url": "https://openlibrary.org/subjects/thriller",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL24226580M",
+   "book_name": "The Mouse on the Mile",
+   "year_of_publishing": "1996 04",
+   "rating": "5.0",
+   "author": "Stephen King",
+   "author_url": "https://openlibrary.org/authors/OL2162284A/Stephen_King",
+   "subject": "Georgia Pines",
+   "subject_url": "https://openlibrary.org/subjects/place:georgia_pines",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL27000652M",
+   "book_name": "The Lost World",
+   "year_of_publishing": "1995",
+   "author": "Michael Crichton",
+   "author_url": "https://openlibrary.org/authors/OL5949173A/Michael_Crichton",
+   "subject": "1995",
+   "subject_url": "https://openlibrary.org/subjects/time:1995",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL18141201M",
+   "book_name": "On the road",
+   "year_of_publishing": "2003",
+   "author": "Jack Kerouac",
+   "author_url": "https://openlibrary.org/authors/OL21491A/Jack_Kerouac",
+   "subject": "Jack Kerouac (1922-1969)",
+   "subject_url": "https://openlibrary.org/subjects/person:jack_kerouac_(1922-1969)",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL3511064M",
+   "book_name": "A lifetime of perception",
+   "year_of_publishing": "1982",
+   "author": "André Kertész",
+   "author_url": "https://openlibrary.org/authors/OL427600A/Andre%CC%81_Kerte%CC%81sz",
+   "subject": "André Kertész",
+   "subject_url": "https://openlibrary.org/subjects/person:andr%C3%A9_kert%C3%A9sz",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL687289M",
+   "book_name": "The nature and science of energy",
+   "year_of_publishing": "1998",
+   "author": "Burton, Jane.",
+   "author_url": "https://openlibrary.org/authors/OL20566A/Burton_Jane.",
+   "subject": "Juvenile literature",
+   "subject_url": "https://openlibrary.org/subjects/juvenile_literature",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL24950930M",
+   "book_name": "Hour game",
+   "year_of_publishing": "2005",
+   "author": "David Baldacci",
+   "author_url": "https://openlibrary.org/authors/OL28165A/David_Baldacci",
+   "subject": "Mystery fiction",
+   "subject_url": "https://openlibrary.org/subjects/mystery_fiction",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL23987748M",
+   "book_name": "Physics for scientists and engineers",
+   "year_of_publishing": "2008",
+   "author": "Randall D. Knight",
+   "author_url": "https://openlibrary.org/authors/OL2670291A/Randall_D._Knight",
+   "subject": "Manuels d'enseignement supérieur",
+   "subject_url": "https://openlibrary.org/subjects/manuels_d'enseignement_sup%C3%A9rieur",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL25393520M",
+   "book_name": "Revolution 19",
+   "year_of_publishing": "2013",
+   "author": "Gregg Rosenblum",
+   "author_url": "https://openlibrary.org/authors/OL7159379A/Gregg_Rosenblum",
+   "subject": "Juvenile fiction",
+   "subject_url": "https://openlibrary.org/subjects/juvenile_fiction",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL20957064M",
+   "book_name": "Audition",
+   "year_of_publishing": "2008",
+   "author": "Barbara Walters",
+   "author_url": "https://openlibrary.org/authors/OL1460468A/Barbara_Walters",
+   "subject": "United States",
+   "subject_url": "https://openlibrary.org/subjects/place:united_states",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL9246549M",
+   "book_name": "The Rose and The Beast",
+   "year_of_publishing": "August 7, 2001",
+   "author": "Francesca Lia Block",
+   "author_url": "https://openlibrary.org/authors/OL23891A/Francesca_Lia_Block",
+   "subject": "Juvenile Fiction",
+   "subject_url": "https://openlibrary.org/subjects/juvenile_fiction",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL25290143M",
+   "book_name": "Blink once",
+   "year_of_publishing": "2012",
+   "author": "Cylin Busby",
+   "author_url": "https://openlibrary.org/authors/OL219158A/Cylin_Busby",
+   "subject": "Medical fiction",
+   "subject_url": "https://openlibrary.org/subjects/medical_fiction",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL26089514M",
+   "book_name": "Werewolf In Denver A Wild About You Novel",
+   "year_of_publishing": "2012",
+   "author": "Vicki Lewis Thompson",
+   "author_url": "https://openlibrary.org/authors/OL1385985A/Vicki_Lewis_Thompson",
+   "subject": "Fiction",
+   "subject_url": "https://openlibrary.org/subjects/fiction"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL26113368M",
+   "book_name": "The Counts Christmas Baby",
+   "year_of_publishing": "2012",
+   "author": "Rebecca Winters",
+   "author_url": "https://openlibrary.org/authors/OL829489A/Rebecca_Winters",
+   "subject": "Fiction",
+   "subject_url": "https://openlibrary.org/subjects/fiction"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL7661883M",
+   "book_name": "The GOLDEN CHANCE",
+   "year_of_publishing": "March 1, 1990",
+   "author": "Jayne Ann Krentz",
+   "author_url": "https://openlibrary.org/authors/OL25024A/Jayne_Ann_Krentz",
+   "subject": "Romance fiction",
+   "subject_url": "https://openlibrary.org/subjects/romance_fiction",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL26547563M",
+   "book_name": "Elements de linguistique romane",
+   "author": "Edouard Eugene Joseph Bourciez",
+   "author_url": "https://openlibrary.org/authors/OL7427964A/Edouard_Eugene_Joseph_Bourciez",
+   "subject": "Romance languages",
+   "subject_url": "https://openlibrary.org/subjects/romance_languages"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL24892567M",
+   "book_name": "Sophie's lovely locks",
+   "year_of_publishing": "2011",
+   "author": "Erica Pelton Villnave",
+   "author_url": "https://openlibrary.org/authors/OL5855271A/Erica_Pelton_Villnave",
+   "subject": "Haircutting",
+   "subject_url": "https://openlibrary.org/subjects/haircutting",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL7856475M",
+   "book_name": "Ffangs the Vampire Bat and the Kiss of Truth",
+   "year_of_publishing": "April 30, 1990",
+   "author": "Ted Hughes",
+   "author_url": "https://openlibrary.org/authors/OL29871A/Ted_Hughes",
+   "subject": "Vampir",
+   "subject_url": "https://openlibrary.org/subjects/vampir"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL26118037M",
+   "book_name": "Hollywood Dead Ahead",
+   "year_of_publishing": "2013",
+   "author": "Kate Klise",
+   "author_url": "https://openlibrary.org/authors/OL241507A/Kate_Klise",
+   "subject": "Ghosts",
+   "subject_url": "https://openlibrary.org/subjects/ghosts"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL44451M",
+   "book_name": "Atlantis Found",
+   "year_of_publishing": "1999",
+   "author": "Clive Cussler",
+   "author_url": "https://openlibrary.org/authors/OL29079A/Clive_Cussler",
+   "subject": "FICTION / Thrillers / Suspense",
+   "subject_url": "https://openlibrary.org/subjects/fiction_/_thrillers_/_suspense",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL24765716M",
+   "book_name": "Skeleton crew",
+   "year_of_publishing": "1985",
+   "author": "Stephen King",
+   "author_url": "https://openlibrary.org/authors/OL2162284A/Stephen_King",
+   "subject": "In library",
+   "subject_url": "https://openlibrary.org/subjects/in_library",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL24968375M",
+   "book_name": "Navigator",
+   "author": "Paul Kemprecos",
+   "author_url": "https://openlibrary.org/authors/OL390196A/Paul_Kemprecos",
+   "subject": "Iraq",
+   "subject_url": "https://openlibrary.org/subjects/place:iraq"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL1566227M",
+   "book_name": "Needful Things",
+   "year_of_publishing": "1991",
+   "author": "Stephen King",
+   "author_url": "https://openlibrary.org/authors/OL2162284A/Stephen_King",
+   "subject": "You Sew and Sew",
+   "subject_url": "https://openlibrary.org/subjects/place:you_sew_and_sew",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL17256829M",
+   "book_name": "Duma Key",
+   "year_of_publishing": "2008 01",
+   "author": "Stephen King",
+   "author_url": "https://openlibrary.org/authors/OL2162284A/Stephen_King",
+   "subject": "Big Pink",
+   "subject_url": "https://openlibrary.org/subjects/place:big_pink",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL7947616M",
+   "book_name": "Wolves of the Calla",
+   "year_of_publishing": "2004",
+   "author": "Stephen King",
+   "author_url": "https://openlibrary.org/authors/OL2162284A/Stephen_King",
+   "subject": "1983",
+   "subject_url": "https://openlibrary.org/subjects/time:1983",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL5074210M",
+   "book_name": "Introduction to probability and statistics",
+   "year_of_publishing": "1975",
+   "author": "William Mendenhall",
+   "author_url": "https://openlibrary.org/authors/OL223088A/William_Mendenhall",
+   "subject": "Statistik",
+   "subject_url": "https://openlibrary.org/subjects/statistik",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL3957421M",
+   "book_name": "Calculus with analytic geometry",
+   "year_of_publishing": "2002",
+   "author": "Ron Larson",
+   "author_url": "https://openlibrary.org/authors/OL2648745A/Ron_Larson",
+   "subject": "Accessible book",
+   "subject_url": "https://openlibrary.org/subjects/accessible_book",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL675508M",
+   "book_name": "Abnormal psychology",
+   "year_of_publishing": "1998",
+   "author": "John M. Neale",
+   "author_url": "https://openlibrary.org/authors/OL445953A/John_M._Neale",
+   "subject": "Psychologie clinique",
+   "subject_url": "https://openlibrary.org/subjects/psychologie_clinique",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL3382980M",
+   "book_name": "Exploring psychology",
+   "year_of_publishing": "2005",
+   "author": "David G. Myers",
+   "author_url": "https://openlibrary.org/authors/OL20973A/David_G._Myers",
+   "subject": "Protected DAISY",
+   "subject_url": "https://openlibrary.org/subjects/protected_daisy",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL3692694M",
+   "book_name": "Invitation to psychology",
+   "year_of_publishing": "2005",
+   "author": "Carole Wade",
+   "author_url": "https://openlibrary.org/authors/OL33551A/Carole_Wade",
+   "subject": "Textbooks",
+   "subject_url": "https://openlibrary.org/subjects/textbooks",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL3028465M",
+   "book_name": "Introduction to psychology",
+   "year_of_publishing": "1986",
+   "author": "James W. Kalat",
+   "author_url": "https://openlibrary.org/authors/OL234376A/James_W._Kalat",
+   "subject": "Psychology [MESH]",
+   "subject_url": "https://openlibrary.org/subjects/psychology_[mesh]",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL3182422M",
+   "book_name": "The measurement of visual motion",
+   "year_of_publishing": "1984",
+   "author": "Ellen Catherine Hildreth",
+   "author_url": "https://openlibrary.org/authors/OL1350343A/Ellen_Catherine_Hildreth",
+   "subject": "Computacʹao aplicada",
+   "subject_url": "https://openlibrary.org/subjects/computac%CA%B9ao_aplicada",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL5282148M",
+   "book_name": "Urban police patrol analysis",
+   "year_of_publishing": "1972",
+   "author": "Richard C. Larson",
+   "author_url": "https://openlibrary.org/authors/OL1170735A/Richard_C._Larson",
+   "subject": "Patrouille policière",
+   "subject_url": "https://openlibrary.org/subjects/patrouille_polici%C3%A8re",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL2391888M",
+   "book_name": "The dilemma of toxic substance regulation",
+   "year_of_publishing": "1988",
+   "author": "John M. Mendeloff",
+   "author_url": "https://openlibrary.org/authors/OL1074253A/John_M._Mendeloff",
+   "subject": "United States",
+   "subject_url": "https://openlibrary.org/subjects/place:united_states",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL4547058M",
+   "book_name": "Cardiovascular system dynamics",
+   "year_of_publishing": "1978",
+   "subject": "Cardiovascular system -- Diseases",
+   "subject_url": "https://openlibrary.org/subjects/cardiovascular_system_--_diseases",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL10237554M",
+   "book_name": "Air Transportation 1975 and Beyond",
+   "year_of_publishing": "June 1968",
+   "author": "William W. Seifert",
+   "author_url": "https://openlibrary.org/authors/OL2298657A/William_W._Seifert",
+   "subject": "Aeronautics and state",
+   "subject_url": "https://openlibrary.org/subjects/aeronautics_and_state",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  },
+  {
+   "url": "https://openlibrary.org/books/OL4406599M",
+   "book_name": "Exotic species in mariculture",
+   "year_of_publishing": "1979",
+   "author": "Symposium on Exotic Species in Maricultu...",
+   "author_url": "https://openlibrary.org/authors/OL1757164A/Symposium_on_Exotic_Species_in_Mariculture_(1978_Woods_Hole_Oceanographic_Institution)",
+   "subject": "Pacific oyster",
+   "subject_url": "https://openlibrary.org/subjects/pacific_oyster",
+   "language": "English",
+   "language_url": "https://openlibrary.org/languages/eng"
+  }
+ ]
+}
